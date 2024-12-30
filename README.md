@@ -36,6 +36,13 @@ Download **TCP, UDP** and **Service Credentials Update** rar files from https://
 4. Update_ServiceCredentials.exe will scans all subdirectories within the chosen directory Updates the first and second line with your input.
 5. Run .ovpn config files!
 
+## You can find your username and password here: 
+https://my.nordaccount.com/dashboard/nordvpn/manual-configuration/service-credentials/ 
+
+<img width="1142" alt="image" src="https://github.com/user-attachments/assets/a60b1750-87d6-40fc-a770-bb58885bda99" />
+
+
+
 ## Why These Changes Were Made
 - **Compatibility**: The removal of `ping-timer-rem` ensures compatibility with modern OpenVPN clients.
 - **Convenience**: Adding `service_credentials.txt` simplifies the user experience by automating credential entry.
