@@ -29,10 +29,13 @@ Download **TCP, UDP** and **Service Credentials Update** rar files from this rep
 1. Extract **TCP** and **UPD** config files to **C:\Program Files\OpenVPN Connect\Config**, if config folder does not exist, create it yourself.
 2. Extract **Service Credentials Update** to **C:\Program Files\OpenVPN Connect\Config**
 3. Run Update_ServiceCredentials.exe file
+   
 3.1. Select parent directory that contains all subdirectories (for example: C:\Program Files\OpenVPN Connect\Config\TCP)
    <img width="960" alt="image" src="https://github.com/user-attachments/assets/d86e9a67-bf5e-46f5-9a63-2666c18127ea" />
+   
 3.2. Enter your username in line #1 and your password in line #2
    <img width="737" alt="image" src="https://github.com/user-attachments/assets/af8f98b4-f90b-4c42-b306-a40203c283d8" />
+   
 4. Update_ServiceCredentials.exe will scans all subdirectories within the chosen directory Updates the first and second line with your input.
 5. Run .ovpn config files!
 
