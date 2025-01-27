@@ -24,10 +24,10 @@ This repository contains updated NordVPN configuration files, downloaded and mod
      ```
 
 ## How to use!
-Download **TCP, UDP** and **Service Credentials Update** rar files from this repository or from https://drive.google.com/drive/folders/1FcoJz53FHTtUgddxWKhykcXmGXdRHV8W?usp=sharing
-(password:windows)
+Download **TCP, UDP** and **Service Credentials Update** exe file from this repository or from https://drive.google.com/drive/folders/1FcoJz53FHTtUgddxWKhykcXmGXdRHV8W?usp=sharing
+
 1. Extract **TCP** and **UPD** config files to **C:\Program Files\OpenVPN Connect\Config**, if config folder does not exist, create it yourself.
-2. Extract **Service Credentials Update** to **C:\Program Files\OpenVPN Connect\Config**
+2. Move **Service Credentials Update** to **C:\Program Files\OpenVPN Connect\Config**
 3. Run Update_ServiceCredentials.exe file
    
 3.1. Select parent directory that contains all subdirectories (for example: C:\Program Files\OpenVPN Connect\Config\TCP)
